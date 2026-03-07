@@ -1,3 +1,5 @@
+The pom.xml and Dockerfile were updated to support Lab 3 Part 1.
+These changes allow the Binary Calculator application to be packaged as a Docker image and deployed on Kubernetes.
 SOFE 3290 – Lab 2
 Binary Calculator Web Application and API Service
 
